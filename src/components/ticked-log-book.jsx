@@ -9,7 +9,7 @@ export default function TickedReturn() {
           born patiently
         </h1>
         <img
-          src="src/assets/Screenshot from 2024-11-05 14-32-46.png"
+          src="/Screenshot from 2024-11-05 14-32-46.png"
           className="ticked-image"
         />
       </div>

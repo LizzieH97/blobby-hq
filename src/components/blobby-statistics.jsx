@@ -25,7 +25,7 @@ function BlobbyStatistics() {
                 <div className="stats-flip-card-front">
                   <div className="stats-card">
                     <img
-                      src="src/assets/download.jpeg"
+                      src="/download.jpeg"
                       className="stats-card-img-top"
                       alt="Front Image"
                     />

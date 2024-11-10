@@ -3,7 +3,6 @@ import "./App.css";
 import FirstParagraph from "./components/first-paragraph";
 import BlobbyStatistics from "./components/blobby-statistics";
 import BlobbyMerch from "./components/blobby-merch";
-
 import NavBar from "./components/nav-bar";
 import BlobbyVideos from "./components/blobby-videos";
 import Header from "./components/header";
